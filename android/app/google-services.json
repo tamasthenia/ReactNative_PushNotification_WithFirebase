@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1093031046307",
+    "firebase_url": "https://unitegps-test.firebaseio.com",
+    "project_id": "unitegps-test",
+    "storage_bucket": "unitegps-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093031046307:android:439b021bff4f252d786316",
+        "android_client_info": {
+          "package_name": "com.unitegps.pushnoti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093031046307-c0ae1703umkpmi4jcjgnv5qd2j0q46s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwipbp8vvlOU3PlHfzLLFM3DOLqNQBnX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093031046307-c0ae1703umkpmi4jcjgnv5qd2j0q46s2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
